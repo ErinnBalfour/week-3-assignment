@@ -30,7 +30,7 @@
 // Question 1: alphabetString
 console.log(`--------------------------
 Question 1: alphabetString \n`);
-
+//just kiddings
 let alphabetString = 'abcdefghijklmnopqrstuvwxyz'; 
 
 /*
